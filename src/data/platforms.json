@@ -6,7 +6,11 @@
     "category": "AI Training & Micro-Task",
     "type": "Work",
     "description": "Train AI models, test prompts, and write creatively. No specific tech background needed. High intent and globally available.",
-    "tags": ["AI Trainer", "No Experience", "$15-25/hr"],
+    "tags": [
+      "AI Trainer",
+      "No Experience",
+      "$15-25/hr"
+    ],
     "aiExposure": "Low"
   },
   {
@@ -16,7 +20,11 @@
     "category": "AI Training & Micro-Task",
     "type": "Work",
     "description": "Flexible work training generative AI models. Highly reliable platforms prioritizing humans in the loop.",
-    "tags": ["AI Editor", "Flexible", "$15-30/hr"],
+    "tags": [
+      "AI Editor",
+      "Flexible",
+      "$15-30/hr"
+    ],
     "aiExposure": "Low"
   },
   {
@@ -26,7 +34,11 @@
     "category": "AI Training & Micro-Task",
     "type": "Work",
     "description": "Micro-tasks centered around AI training, LiDAR mapping, and data tagging. Globally accessible task board.",
-    "tags": ["Micro-task", "Global", "AI Training"],
+    "tags": [
+      "Micro-task",
+      "Global",
+      "AI Training"
+    ],
     "aiExposure": "Low"
   },
   {
@@ -36,107 +48,150 @@
     "category": "AI Training & Micro-Task",
     "type": "Work",
     "description": "Search engine evaluation, AI rating, and data annotation for massive global tech partners.",
-    "tags": ["Data Rating", "Global", "Part-time"],
+    "tags": [
+      "Data Rating",
+      "Global",
+      "Part-time"
+    ],
     "aiExposure": "Low"
   },
   {
     "id": "modsquad",
     "name": "ModSquad",
     "url": "https://modsquad.com",
-    "category": "Non-Tech / Support / VA",
+    "category": "Virtual Assistants & Support",
     "type": "Work",
     "description": "Digital engagement services: moderation, customer support, and social media management globally.",
-    "tags": ["Community Management", "Global", "No Exp OK"],
+    "tags": [
+      "Community Management",
+      "Global",
+      "No Exp OK"
+    ],
     "aiExposure": "Low"
   },
   {
     "id": "woodbows",
     "name": "WoodBows",
     "url": "https://woodbows.com",
-    "category": "Non-Tech / Support / VA",
+    "category": "Virtual Assistants & Support",
     "type": "Work",
     "description": "General virtual assistant work, data entry, and administration targeted primarily toward international English speakers.",
-    "tags": ["Virtual Assistant", "Global", "Entry Level"],
+    "tags": [
+      "Virtual Assistant",
+      "Global",
+      "Entry Level"
+    ],
     "aiExposure": "Low"
   },
   {
     "id": "uassistme",
     "name": "UAssist.ME",
     "url": "https://uassist.me",
-    "category": "Non-Tech / Support / VA",
+    "category": "Virtual Assistants & Support",
     "type": "Work",
     "description": "Bilingual (English/Spanish) focused virtual assistant and administrative roles servicing global clients.",
-    "tags": ["Bilingual VA", "Global", "$10-18/hr"],
+    "tags": [
+      "Bilingual VA",
+      "Global",
+      "$10-18/hr"
+    ],
     "aiExposure": "Medium"
   },
   {
     "id": "concentrix",
     "name": "Concentrix",
     "url": "https://concentrix.com",
-    "category": "Non-Tech / Support / VA",
+    "category": "Virtual Assistants & Support",
     "type": "Work",
     "description": "Massive global provider of customer service, tech support, and sales roles with a heavy remote footprint.",
-    "tags": ["Customer Support", "Global", "Training Provided"],
+    "tags": [
+      "Customer Support",
+      "Global",
+      "Training Provided"
+    ],
     "aiExposure": "Medium"
   },
   {
     "id": "contena",
     "name": "Contena",
     "url": "https://contena.co",
-    "category": "Writing & Creative",
+    "category": "Copywriting & Editing",
     "type": "Work",
     "description": "Premium curation of high-paying writing jobs, editing gigs, and content strategy roles.",
-    "tags": ["Premium Writing", "Global", "All Levels"],
+    "tags": [
+      "Premium Writing",
+      "Global",
+      "All Levels"
+    ],
     "aiExposure": "Medium"
   },
   {
     "id": "clearvoice",
     "name": "ClearVoice",
     "url": "https://clearvoice.com",
-    "category": "Writing & Creative",
+    "category": "Copywriting & Editing",
     "type": "Work",
     "description": "Content marketing platform connecting strategic writers with top-tier brands.",
-    "tags": ["Content Strategy", "Portfolio Based"],
+    "tags": [
+      "Content Strategy",
+      "Portfolio Based"
+    ],
     "aiExposure": "Medium"
   },
   {
     "id": "dribbble",
     "name": "Dribbble Jobs",
     "url": "https://dribbble.com/jobs",
-    "category": "Writing & Creative",
+    "category": "Design & UX",
     "type": "Work",
     "description": "The definitive board for global remote design jobs ranging from UX to illustration.",
-    "tags": ["Design", "Global", "Professional"],
+    "tags": [
+      "Design",
+      "Global",
+      "Professional"
+    ],
     "aiExposure": "Low"
   },
   {
     "id": "weworkremotely",
     "name": "We Work Remotely",
     "url": "https://weworkremotely.com",
-    "category": "General Job Boards",
+    "category": "Global Remote Boards",
     "type": "Work",
     "description": "The largest general remote work community in the world. High volume of daily tech and non-tech postings.",
-    "tags": ["Largest Board", "Global", "High Volume"],
+    "tags": [
+      "Largest Board",
+      "Global",
+      "High Volume"
+    ],
     "aiExposure": "Medium"
   },
   {
     "id": "flexjobs",
     "name": "FlexJobs",
     "url": "https://flexjobs.com",
-    "category": "General Job Boards",
+    "category": "Global Remote Boards",
     "type": "Work",
     "description": "Vetted and hand-screened remote jobs across 50+ career fields to eliminate scams.",
-    "tags": ["Vetted", "Subscription", "All Categories"],
+    "tags": [
+      "Vetted",
+      "Subscription",
+      "All Categories"
+    ],
     "aiExposure": "Medium"
   },
   {
     "id": "remoteok",
     "name": "Remote OK",
     "url": "https://remoteok.com",
-    "category": "General Job Boards",
+    "category": "Global Remote Boards",
     "type": "Work",
     "description": "Highly visited, minimalist board pushing out thousands of tech, marketing, and design opportunities globally.",
-    "tags": ["Startups", "Global", "Minimalist"],
+    "tags": [
+      "Startups",
+      "Global",
+      "Minimalist"
+    ],
     "aiExposure": "Medium"
   },
   {
@@ -146,17 +201,25 @@
     "category": "Tech & Development",
     "type": "Work",
     "description": "Platform connecting developers with full-time remote and freelance contract roles.",
-    "tags": ["Developers", "Global", "Vetted"],
+    "tags": [
+      "Developers",
+      "Global",
+      "Vetted"
+    ],
     "aiExposure": "Low"
   },
   {
     "id": "himalayas",
     "name": "Himalayas",
     "url": "https://himalayas.app",
-    "category": "General Job Boards",
+    "category": "Global Remote Boards",
     "type": "Work",
     "description": "Clean, intuitive remote job board with deep company profiles, exposing team culture before you apply.",
-    "tags": ["Culture Focus", "Global", "Tech & Non-Tech"],
+    "tags": [
+      "Culture Focus",
+      "Global",
+      "Tech & Non-Tech"
+    ],
     "aiExposure": "Medium"
   },
   {
@@ -166,7 +229,11 @@
     "category": "Resources & Meta-Directories",
     "type": "Resource",
     "description": "A meta-directory featuring over 1,000 hyper-niche job boards spanning every single industry.",
-    "tags": ["Meta-Directory", "Filters", "Essential"],
+    "tags": [
+      "Meta-Directory",
+      "Filters",
+      "Essential"
+    ],
     "aiExposure": "Low"
   },
   {
@@ -176,7 +243,11 @@
     "category": "Resources & Meta-Directories",
     "type": "Resource",
     "description": "The definitive open-source GitHub mega-list of job boards, categorized by extreme niches.",
-    "tags": ["Open Source", "GitHub", "Exhaustive"],
+    "tags": [
+      "Open Source",
+      "GitHub",
+      "Exhaustive"
+    ],
     "aiExposure": "Low"
   },
   {
@@ -186,7 +257,11 @@
     "category": "Resources & Meta-Directories",
     "type": "Resource",
     "description": "Discover massive databases of AI tools to rapidly upskill and protect your non-tech service offerings.",
-    "tags": ["Upskilling", "Tooling", "AI Automation"],
+    "tags": [
+      "Upskilling",
+      "Tooling",
+      "AI Automation"
+    ],
     "aiExposure": "Low"
   },
   {
@@ -196,7 +271,10 @@
     "category": "Resources & Meta-Directories",
     "type": "Resource",
     "description": "Tools and aggregator including resume checker and salary predictor.",
-    "tags": ["Aggregator", "Tools"],
+    "tags": [
+      "Aggregator",
+      "Tools"
+    ],
     "aiExposure": "Low"
   },
   {
@@ -206,7 +284,10 @@
     "category": "Resources & Meta-Directories",
     "type": "Resource",
     "description": "Startup-focused job resources and tool directory favored by early-stage companies.",
-    "tags": ["Startups", "Curated"],
+    "tags": [
+      "Startups",
+      "Curated"
+    ],
     "aiExposure": "Low"
   },
   {
@@ -216,7 +297,10 @@
     "category": "Resources & Meta-Directories",
     "type": "Resource",
     "description": "Curated tools and job boards for remote professionals driven by community voting.",
-    "tags": ["Community", "Curated"],
+    "tags": [
+      "Community",
+      "Curated"
+    ],
     "aiExposure": "Low"
   },
   {
@@ -226,7 +310,10 @@
     "category": "Resources & Meta-Directories",
     "type": "Resource",
     "description": "Find alternative software, platforms, and remote work boards verified by user reviews.",
-    "tags": ["Crowdsourced", "Reviews"],
+    "tags": [
+      "Crowdsourced",
+      "Reviews"
+    ],
     "aiExposure": "Low"
   },
   {
@@ -236,7 +323,10 @@
     "category": "Resources & Meta-Directories",
     "type": "Resource",
     "description": "Independent software directory and comparison tables for remote tools and HR boards.",
-    "tags": ["B2B", "Comparisons"],
+    "tags": [
+      "B2B",
+      "Comparisons"
+    ],
     "aiExposure": "Low"
   },
   {
@@ -246,7 +336,10 @@
     "category": "Resources & Meta-Directories",
     "type": "Resource",
     "description": "The premier launchpad for uncovering new remote job boards, matching tools, and SaaS.",
-    "tags": ["New Launches", "Tech"],
+    "tags": [
+      "New Launches",
+      "Tech"
+    ],
     "aiExposure": "Low"
   },
   {
@@ -256,7 +349,10 @@
     "category": "Resources & Meta-Directories",
     "type": "Resource",
     "description": "Curated remote work stack, productivity tools, and community boards.",
-    "tags": ["Remote Stack", "Community"],
+    "tags": [
+      "Remote Stack",
+      "Community"
+    ],
     "aiExposure": "Low"
   },
   {
@@ -266,7 +362,10 @@
     "category": "Resources & Meta-Directories",
     "type": "Resource",
     "description": "Hand-curated guides, job boards, and resources for the modern digital nomad.",
-    "tags": ["Nomads", "Guides"],
+    "tags": [
+      "Nomads",
+      "Guides"
+    ],
     "aiExposure": "Low"
   },
   {
@@ -276,7 +375,10 @@
     "category": "Resources & Meta-Directories",
     "type": "Resource",
     "description": "Vetted remote company directories profiling workplace culture and hiring practices.",
-    "tags": ["Company Profiles", "Culture"],
+    "tags": [
+      "Company Profiles",
+      "Culture"
+    ],
     "aiExposure": "Low"
   },
   {
@@ -286,7 +388,10 @@
     "category": "Resources & Meta-Directories",
     "type": "Resource",
     "description": "Massive community list of companies that respect your time and don't do broken whiteboard interviews.",
-    "tags": ["Ethical Hiring", "No-Whiteboard"],
+    "tags": [
+      "Ethical Hiring",
+      "No-Whiteboard"
+    ],
     "aiExposure": "Low"
   },
   {
@@ -296,7 +401,10 @@
     "category": "Resources & Meta-Directories",
     "type": "Resource",
     "description": "Dedicated to roles and companies offering a 4-day work week for ultimate work-life balance.",
-    "tags": ["Work-Life Balance", "Progressive"],
+    "tags": [
+      "Work-Life Balance",
+      "Progressive"
+    ],
     "aiExposure": "Low"
   },
   {
@@ -306,7 +414,10 @@
     "category": "Resources & Meta-Directories",
     "type": "Resource",
     "description": "Match with engineering and remote roles based purely on company culture and deep values.",
-    "tags": ["Culture First", "Matching"],
+    "tags": [
+      "Culture First",
+      "Matching"
+    ],
     "aiExposure": "Low"
   },
   {
@@ -316,7 +427,10 @@
     "category": "Resources & Meta-Directories",
     "type": "Resource",
     "description": "Social impact roles and mission-driven remote work for ethical professionals.",
-    "tags": ["Social Impact", "Mission Driven"],
+    "tags": [
+      "Social Impact",
+      "Mission Driven"
+    ],
     "aiExposure": "Low"
   },
   {
@@ -326,7 +440,10 @@
     "category": "Resources & Meta-Directories",
     "type": "Resource",
     "description": "The leading directory for climate tech, sustainability, and green remote jobs.",
-    "tags": ["Climate Tech", "Sustainability"],
+    "tags": [
+      "Climate Tech",
+      "Sustainability"
+    ],
     "aiExposure": "Low"
   },
   {
@@ -336,7 +453,10 @@
     "category": "Resources & Meta-Directories",
     "type": "Resource",
     "description": "Inclusive hiring boards and resources dedicated to elevating underrepresented talent.",
-    "tags": ["Inclusive", "Diversity"],
+    "tags": [
+      "Inclusive",
+      "Diversity"
+    ],
     "aiExposure": "Low"
   },
   {
@@ -346,7 +466,10 @@
     "category": "Resources & Meta-Directories",
     "type": "Resource",
     "description": "Aggregates the monthly Hacker News hiring threads into a searchable map and board.",
-    "tags": ["Y-Combinator", "Startups"],
+    "tags": [
+      "Y-Combinator",
+      "Startups"
+    ],
     "aiExposure": "Low"
   },
   {
@@ -356,277 +479,361 @@
     "category": "Resources & Meta-Directories",
     "type": "Resource",
     "description": "Focuses strictly on roles that offer 100% location freedom without timezone constraints.",
-    "tags": ["100% Remote", "Nomad"],
+    "tags": [
+      "100% Remote",
+      "Nomad"
+    ],
     "aiExposure": "Low"
   },
   {
     "id": "justremote",
     "name": "JustRemote",
     "url": "https://justremote.co",
-    "category": "General Job Boards",
+    "category": "Global Remote Boards",
     "type": "Work",
     "description": "Discover hidden remote jobs from tech to customer success. Offers a premium 'Power Search'.",
-    "tags": ["Hidden Jobs", "All Fields"],
+    "tags": [
+      "Hidden Jobs",
+      "All Fields"
+    ],
     "aiExposure": "Medium"
   },
   {
     "id": "workingnomads",
     "name": "Working Nomads",
     "url": "https://workingnomads.co",
-    "category": "General Job Boards",
+    "category": "Global Remote Boards",
     "type": "Work",
     "description": "Curated daily newsletter and job board for digital professionals seeking global roles.",
-    "tags": ["Newsletter", "Nomads"],
+    "tags": [
+      "Newsletter",
+      "Nomads"
+    ],
     "aiExposure": "Medium"
   },
   {
     "id": "remotive",
     "name": "Remotive",
     "url": "https://remotive.com",
-    "category": "General Job Boards",
+    "category": "Global Remote Boards",
     "type": "Work",
     "description": "Vetted tech and non-tech remote jobs. Features a vibrant Slack community for job seekers.",
-    "tags": ["Vetted", "Community"],
+    "tags": [
+      "Vetted",
+      "Community"
+    ],
     "aiExposure": "Medium"
   },
   {
     "id": "jobspresso",
     "name": "Jobspresso",
     "url": "https://jobspresso.co",
-    "category": "General Job Boards",
+    "category": "Global Remote Boards",
     "type": "Work",
     "description": "High-quality, manually reviewed remote work postings. Heavy focus on US timezones but expanding.",
-    "tags": ["Manual Review", "High Quality"],
+    "tags": [
+      "Manual Review",
+      "High Quality"
+    ],
     "aiExposure": "Medium"
   },
   {
     "id": "dailyremote",
     "name": "DailyRemote",
     "url": "https://dailyremote.com",
-    "category": "General Job Boards",
+    "category": "Global Remote Boards",
     "type": "Work",
     "description": "Aggregator stripping noise to deliver a daily digest of fresh global remote roles.",
-    "tags": ["Aggregator", "Daily Digest"],
+    "tags": [
+      "Aggregator",
+      "Daily Digest"
+    ],
     "aiExposure": "Medium"
   },
   {
     "id": "virtualvocations",
     "name": "Virtual Vocations",
     "url": "https://virtualvocations.com",
-    "category": "General Job Boards",
+    "category": "Global Remote Boards",
     "type": "Work",
     "description": "Massive database of hand-screened remote jobs across all industries. Prevents scam postings.",
-    "tags": ["Screened", "Subscription Option"],
+    "tags": [
+      "Screened",
+      "Subscription Option"
+    ],
     "aiExposure": "Medium"
   },
   {
     "id": "skipthedrive",
     "name": "SkipTheDrive",
     "url": "https://skipthedrive.com",
-    "category": "General Job Boards",
+    "category": "Global Remote Boards",
     "type": "Work",
     "description": "Free remote job board with a strong emphasis on entry-level, customer service, and accounting roles.",
-    "tags": ["Entry Level", "Service"],
+    "tags": [
+      "Entry Level",
+      "Service"
+    ],
     "aiExposure": "Medium"
   },
   {
     "id": "ratracerebellion",
     "name": "Rat Race Rebellion",
     "url": "https://ratracerebellion.com",
-    "category": "General Job Boards",
+    "category": "Global Remote Boards",
     "type": "Work",
     "description": "Vigorously screened gig leads and WAH jobs protecting seekers from scams. Excellent for entry-level.",
-    "tags": ["Scam-Free", "Entry Level"],
+    "tags": [
+      "Scam-Free",
+      "Entry Level"
+    ],
     "aiExposure": "Medium"
   },
   {
     "id": "wellfound",
     "name": "Wellfound (AngelList)",
     "url": "https://wellfound.com",
-    "category": "General Job Boards",
+    "category": "Global Remote Boards",
     "type": "Work",
     "description": "The premier board for startup jobs. Features transparent salary and equity upfront.",
-    "tags": ["Startups", "Transparent Pay"],
+    "tags": [
+      "Startups",
+      "Transparent Pay"
+    ],
     "aiExposure": "Low"
   },
   {
     "id": "remoteco",
     "name": "Remote.co",
     "url": "https://remote.co",
-    "category": "General Job Boards",
+    "category": "Global Remote Boards",
     "type": "Work",
     "description": "Fully remote roles across all industries. Features deep Q&As with hiring companies.",
-    "tags": ["All Industries", "Company Q&A"],
+    "tags": [
+      "All Industries",
+      "Company Q&A"
+    ],
     "aiExposure": "Medium"
   },
   {
     "id": "outsourcely",
     "name": "Outsourcely",
     "url": "https://outsourcely.com",
-    "category": "General Job Boards",
+    "category": "Global Remote Boards",
     "type": "Work",
     "description": "Focuses entirely on long-term remote relationships rather than short freelance gigs.",
-    "tags": ["Long-term", "Full-time"],
+    "tags": [
+      "Long-term",
+      "Full-time"
+    ],
     "aiExposure": "Medium"
   },
   {
     "id": "pangian",
     "name": "Pangian",
     "url": "https://pangian.com",
-    "category": "General Job Boards",
+    "category": "Global Remote Boards",
     "type": "Work",
     "description": "Global remote work board connecting a worldwide audience to borderless opportunities.",
-    "tags": ["Worldwide", "Community"],
+    "tags": [
+      "Worldwide",
+      "Community"
+    ],
     "aiExposure": "Medium"
   },
   {
     "id": "powertofly",
     "name": "PowerToFly",
     "url": "https://powertofly.com",
-    "category": "General Job Boards",
+    "category": "Global Remote Boards",
     "type": "Work",
     "description": "Diversity-focused hiring platform explicitly targeting women in tech and remote roles.",
-    "tags": ["Women in Tech", "Diversity"],
+    "tags": [
+      "Women in Tech",
+      "Diversity"
+    ],
     "aiExposure": "Medium"
   },
   {
     "id": "themomproject",
     "name": "The Mom Project",
     "url": "https://themomproject.com",
-    "category": "General Job Boards",
+    "category": "Global Remote Boards",
     "type": "Work",
     "description": "Dedicated to keeping mothers in the workforce through flexible, remote, and family-friendly roles.",
-    "tags": ["Mothers", "Flexible"],
+    "tags": [
+      "Mothers",
+      "Flexible"
+    ],
     "aiExposure": "Low"
   },
   {
     "id": "belay",
     "name": "Belay",
     "url": "https://belay.com",
-    "category": "Non-Tech / Support / VA",
+    "category": "Virtual Assistants & Support",
     "type": "Work",
     "description": "Premium virtual assistant platform for US-based workers matching VAs with executives.",
-    "tags": ["Premium VA", "US Focus"],
+    "tags": [
+      "Premium VA",
+      "US Focus"
+    ],
     "aiExposure": "Medium"
   },
   {
     "id": "timeetc",
     "name": "Time Etc",
     "url": "https://timeetc.com",
-    "category": "Non-Tech / Support / VA",
+    "category": "Virtual Assistants & Support",
     "type": "Work",
     "description": "UK/US focused virtual assistant platform founded by a former executive.",
-    "tags": ["Assistant", "Experienced"],
+    "tags": [
+      "Assistant",
+      "Experienced"
+    ],
     "aiExposure": "Medium"
   },
   {
     "id": "fancyhands",
     "name": "Fancy Hands",
     "url": "https://fancyhands.com",
-    "category": "Non-Tech / Support / VA",
+    "category": "Virtual Assistants & Support",
     "type": "Work",
     "description": "Fast, task-based VA work ideal for piecing together micro-gigs. US focused.",
-    "tags": ["Task-based", "Micro-gig"],
+    "tags": [
+      "Task-based",
+      "Micro-gig"
+    ],
     "aiExposure": "High"
   },
   {
     "id": "zirtual",
     "name": "Zirtual",
     "url": "https://zirtual.com",
-    "category": "Non-Tech / Support / VA",
+    "category": "Virtual Assistants & Support",
     "type": "Work",
     "description": "Providing dedicated virtual assistants to entrepreneurs and small businesses.",
-    "tags": ["Dedicated VA", "Administrative"],
+    "tags": [
+      "Dedicated VA",
+      "Administrative"
+    ],
     "aiExposure": "Medium"
   },
   {
     "id": "horkeyhandbook",
     "name": "Horkey Handbook",
     "url": "https://horkeyhandbook.com",
-    "category": "Non-Tech / Support / VA",
+    "category": "Virtual Assistants & Support",
     "type": "Work",
     "description": "VA training hub combined with a job board. Excellent for zero-experience beginners.",
-    "tags": ["Training Provided", "Beginners"],
+    "tags": [
+      "Training Provided",
+      "Beginners"
+    ],
     "aiExposure": "Low"
   },
   {
     "id": "smithai",
     "name": "Smith.ai",
     "url": "https://smith.ai",
-    "category": "Non-Tech / Support / VA",
+    "category": "Virtual Assistants & Support",
     "type": "Work",
     "description": "Virtual receptionists handling inbound leads, calls, and scheduling. Paid training provided.",
-    "tags": ["Receptionist", "Training"],
+    "tags": [
+      "Receptionist",
+      "Training"
+    ],
     "aiExposure": "Medium"
   },
   {
     "id": "supportdriven",
     "name": "Support Driven",
     "url": "https://supportdriven.com",
-    "category": "Non-Tech / Support / VA",
+    "category": "Virtual Assistants & Support",
     "type": "Work",
     "description": "Niche job board exclusively for customer support professionals and leadership.",
-    "tags": ["Customer Success", "Professional"],
+    "tags": [
+      "Customer Success",
+      "Professional"
+    ],
     "aiExposure": "Low"
   },
   {
     "id": "workingsolutions",
     "name": "Working Solutions",
     "url": "https://workingsolutions.com",
-    "category": "Non-Tech / Support / VA",
+    "category": "Virtual Assistants & Support",
     "type": "Work",
     "description": "Independent contractor roles offering on-demand customer service and sales processing.",
-    "tags": ["Contractor", "Customer Service"],
+    "tags": [
+      "Contractor",
+      "Customer Service"
+    ],
     "aiExposure": "Medium"
   },
   {
     "id": "liveops",
     "name": "Liveops",
     "url": "https://liveops.com",
-    "category": "Non-Tech / Support / VA",
+    "category": "Virtual Assistants & Support",
     "type": "Work",
     "description": "Massive virtual call center. Pay is often per-minute/call for various major brands.",
-    "tags": ["Call Center", "Flexible"],
+    "tags": [
+      "Call Center",
+      "Flexible"
+    ],
     "aiExposure": "Medium"
   },
   {
     "id": "arise",
     "name": "Arise",
     "url": "https://arise.com",
-    "category": "Non-Tech / Support / VA",
+    "category": "Virtual Assistants & Support",
     "type": "Work",
     "description": "Customer service platform requiring you to register as a micro-business. Good for flexible heavy hours.",
-    "tags": ["Customer Service", "Business Setup"],
+    "tags": [
+      "Customer Service",
+      "Business Setup"
+    ],
     "aiExposure": "Medium"
   },
   {
     "id": "alorica",
     "name": "Alorica",
     "url": "https://alorica.com",
-    "category": "Non-Tech / Support / VA",
+    "category": "Virtual Assistants & Support",
     "type": "Work",
     "description": "Large global BPO hiring heavily for at-home customer service reps.",
-    "tags": ["BPO", "Entry Level"],
+    "tags": [
+      "BPO",
+      "Entry Level"
+    ],
     "aiExposure": "Medium"
   },
   {
     "id": "transcom",
     "name": "Transcom",
     "url": "https://transcom.com",
-    "category": "Non-Tech / Support / VA",
+    "category": "Virtual Assistants & Support",
     "type": "Work",
     "description": "Global customer experience provider offering widespread remote sales and support roles.",
-    "tags": ["Global Support", "CX"],
+    "tags": [
+      "Global Support",
+      "CX"
+    ],
     "aiExposure": "Medium"
   },
   {
     "id": "sitel",
     "name": "Foundever (Sitel)",
     "url": "https://foundever.com",
-    "category": "Non-Tech / Support / VA",
+    "category": "Virtual Assistants & Support",
     "type": "Work",
     "description": "Customer support behemoth handling thousands of remote workers globally.",
-    "tags": ["Enterprise Support", "Global"],
+    "tags": [
+      "Enterprise Support",
+      "Global"
+    ],
     "aiExposure": "Medium"
   },
   {
@@ -636,7 +843,10 @@
     "category": "AI Training & Micro-Task",
     "type": "Work",
     "description": "Global provider of AI training data. Projects range from search evaluation to audio transcription.",
-    "tags": ["Global Focus", "Training Data"],
+    "tags": [
+      "Global Focus",
+      "Training Data"
+    ],
     "aiExposure": "Low"
   },
   {
@@ -646,7 +856,10 @@
     "category": "AI Training & Micro-Task",
     "type": "Work",
     "description": "Data entry, surveys, and app testing. Easy to register globally, though pay varies heavily.",
-    "tags": ["Micro-task", "Global"],
+    "tags": [
+      "Micro-task",
+      "Global"
+    ],
     "aiExposure": "Low"
   },
   {
@@ -656,7 +869,10 @@
     "category": "AI Training & Micro-Task",
     "type": "Work",
     "description": "High-quality data labeling and RLHF training. Extremely competitive but higher tier pay.",
-    "tags": ["RLHF", "Data Labeling"],
+    "tags": [
+      "RLHF",
+      "Data Labeling"
+    ],
     "aiExposure": "Low"
   },
   {
@@ -666,7 +882,10 @@
     "category": "AI Training & Micro-Task",
     "type": "Work",
     "description": "Operates as a hybrid AI and human-in-the-loop task execution service for enterprise clients.",
-    "tags": ["Process Automation", "Human-in-loop"],
+    "tags": [
+      "Process Automation",
+      "Human-in-loop"
+    ],
     "aiExposure": "Low"
   },
   {
@@ -676,7 +895,10 @@
     "category": "AI Training & Micro-Task",
     "type": "Work",
     "description": "Specialized AI data creation requiring domain experts in writing, math, and coding.",
-    "tags": ["Expert Trainers", "Generative AI"],
+    "tags": [
+      "Expert Trainers",
+      "Generative AI"
+    ],
     "aiExposure": "Low"
   },
   {
@@ -686,87 +908,114 @@
     "category": "AI Training & Micro-Task",
     "type": "Work",
     "description": "Help improve AI systems by performing simple audio, text, and image tasks globally.",
-    "tags": ["Simple Tasks", "Global"],
+    "tags": [
+      "Simple Tasks",
+      "Global"
+    ],
     "aiExposure": "Low"
   },
   {
     "id": "problogger",
     "name": "ProBlogger Jobs",
     "url": "https://problogger.com/jobs",
-    "category": "Writing & Creative",
+    "category": "Copywriting & Editing",
     "type": "Work",
     "description": "The industry standard board for blogging jobs, copywriting, and content strategy.",
-    "tags": ["Blogging", "Copywriting"],
+    "tags": [
+      "Blogging",
+      "Copywriting"
+    ],
     "aiExposure": "Medium"
   },
   {
     "id": "freelancewritinggigs",
     "name": "Freelance Writing Jobs",
     "url": "https://freelancewritinggigs.com",
-    "category": "Writing & Creative",
+    "category": "Copywriting & Editing",
     "type": "Work",
     "description": "Daily curated list of paid writing leads scoured from across the internet.",
-    "tags": ["Daily Leads", "Free Database"],
+    "tags": [
+      "Daily Leads",
+      "Free Database"
+    ],
     "aiExposure": "High"
   },
   {
     "id": "mediabistro",
     "name": "MediaBistro",
     "url": "https://mediabistro.com",
-    "category": "Writing & Creative",
+    "category": "Copywriting & Editing",
     "type": "Work",
     "description": "Premium job board for media professionals, ranging from editorial to television production.",
-    "tags": ["Media", "Editorial"],
+    "tags": [
+      "Media",
+      "Editorial"
+    ],
     "aiExposure": "Medium"
   },
   {
     "id": "writeraccess",
     "name": "WriterAccess",
     "url": "https://writeraccess.com",
-    "category": "Writing & Creative",
+    "category": "Copywriting & Editing",
     "type": "Work",
     "description": "Content marketplace matching vetted writers, editors, and translators with agencies.",
-    "tags": ["Marketplace", "Vetted Writers"],
+    "tags": [
+      "Marketplace",
+      "Vetted Writers"
+    ],
     "aiExposure": "High"
   },
   {
     "id": "behancejobs",
     "name": "Behance Jobs",
     "url": "https://behance.net/joblist",
-    "category": "Writing & Creative",
+    "category": "Design & UX",
     "type": "Work",
     "description": "Adobe's official job board integrated with portfolios. Amazing for discovering creative work.",
-    "tags": ["Portfolios", "Design"],
+    "tags": [
+      "Portfolios",
+      "Design"
+    ],
     "aiExposure": "Low"
   },
   {
     "id": "coroflot",
     "name": "Coroflot",
     "url": "https://coroflot.com",
-    "category": "Writing & Creative",
+    "category": "Design & UX",
     "type": "Work",
     "description": "Specialized in industrial design, 3D modeling, and physical product creatives.",
-    "tags": ["Industrial Design", "3D"],
+    "tags": [
+      "Industrial Design",
+      "3D"
+    ],
     "aiExposure": "Low"
   },
   {
     "id": "artstation",
     "name": "ArtStation Jobs",
     "url": "https://artstation.com/jobs",
-    "category": "Writing & Creative",
+    "category": "Design & UX",
     "type": "Work",
     "description": "The premier board for gaming, entertainment, and visual effects artists.",
-    "tags": ["Gaming", "Entertainment"],
+    "tags": [
+      "Gaming",
+      "Entertainment"
+    ],
     "aiExposure": "Low"
   },
   {
     "id": "krop",
     "name": "Krop",
     "url": "https://krop.com",
-    "category": "Writing & Creative",
+    "category": "Design & UX",
     "type": "Work",
     "description": "Creative industry job board highly focused on portfolio presentation and agency matching.",
-    "tags": ["Agencies", "Portfolio"],
+    "tags": [
+      "Agencies",
+      "Portfolio"
+    ],
     "aiExposure": "Medium"
   },
   {
@@ -776,7 +1025,10 @@
     "category": "Tech & Development",
     "type": "Work",
     "description": "Premium platform for highly experienced senior developers and software engineers.",
-    "tags": ["Senior Devs", "Vetted"],
+    "tags": [
+      "Senior Devs",
+      "Vetted"
+    ],
     "aiExposure": "Medium"
   },
   {
@@ -786,7 +1038,10 @@
     "category": "Tech & Development",
     "type": "Work",
     "description": "Connects vetted Eastern European and global developers with fast-growing startups.",
-    "tags": ["Vetted", "Startups"],
+    "tags": [
+      "Vetted",
+      "Startups"
+    ],
     "aiExposure": "Low"
   },
   {
@@ -796,7 +1051,10 @@
     "category": "Tech & Development",
     "type": "Work",
     "description": "AI-backed matching platform finding long-term remote roles for top-tier engineers.",
-    "tags": ["AI-Matched", "Long-term"],
+    "tags": [
+      "AI-Matched",
+      "Long-term"
+    ],
     "aiExposure": "Medium"
   },
   {
@@ -806,7 +1064,10 @@
     "category": "Tech & Development",
     "type": "Work",
     "description": "Long-standing board for hackers, designers, and creative professionals.",
-    "tags": ["Web Pros", "Established"],
+    "tags": [
+      "Web Pros",
+      "Established"
+    ],
     "aiExposure": "Medium"
   }
 ]

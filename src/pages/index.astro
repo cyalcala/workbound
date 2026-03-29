@@ -6,27 +6,46 @@ import platformsData from '../data/platforms.json';
 const sortedPlatforms = platformsData;
 ---
 
-<Layout title="Workbound - The Premium Remote Work Directory">
-  <div class="mb-20 mt-8">
-    <div class="max-w-5xl mb-12">
-      <h2 class="text-5xl md:text-6xl lg:text-[5rem] text-ink font-extrabold tracking-tighter leading-[1.05] mb-8">
-        The definitive master directory of global remote work.
-      </h2>
-      <p class="text-xl md:text-2xl lg:text-3xl text-ink/70 mt-6 leading-relaxed font-medium tracking-tight max-w-4xl">
-        Curated to eliminate regional noise, connecting you with borderless opportunities.
-        <span class="text-accent font-semibold block mt-3">Prioritizing high-intent Non-Tech and AI-augmented roles.</span>
-      </p>
-    </div>
+<Layout title="Workbound - The Master Directory of Remote Work">
+  <!-- Minimal Apex Title -->
+  <div class="mb-8 text-center sm:text-left">
+    <h2 class="text-3xl md:text-5xl text-ink font-extrabold tracking-tighter leading-tight">
+      The master directory of global remote work.
+    </h2>
   </div>
 
   <!-- Intentionally load Svelte client-side to take over fuzzy search. -->
   <SearchIsland platforms={sortedPlatforms} client:load />
 
-  <footer class="mt-40 border-t border-ink/10 pt-10 flex flex-col sm:flex-row items-center justify-between text-ink/40 text-xs font-bold tracking-[0.2em] uppercase">
-    <p>© {new Date().getFullYear()} WORKBOUND. THE GLOBAL PROFESSIONAL.</p>
-    <div class="flex gap-8 mt-6 sm:mt-0">
-      <a href="#" class="hover:text-accent transition-colors">PRIVACY</a>
-      <a href="#" class="hover:text-accent transition-colors">TERMS</a>
+  <!-- Massive SEO Basement Footer -->
+  <footer id="seo-basement" class="mt-40 border-t-8 border-ink/10 bg-white mx-[-1rem] sm:mx-[-2rem] lg:mx-[-3rem] px-8 sm:px-16 lg:px-24 pt-20 pb-32">
+    <div class="max-w-4xl mx-auto">
+      <h2 class="text-4xl text-ink font-extrabold tracking-tighter mb-8">What is Workbound?</h2>
+      
+      <div class="space-y-6 text-lg text-ink/70 font-medium leading-relaxed">
+        <p>
+          Workbound is the internet's definitive meta-directory for discovering borderless, global remote work opportunities. We meticulously curate and categorize the highest-intent job boards, freelance platforms, and micro-tasking sites, cutting through the noise to deliver a pristine list of resources.
+        </p>
+        
+        <h3 class="text-2xl text-ink font-bold tracking-tight mt-10 mb-4">Prioritizing Non-Tech & Global Opportunities</h3>
+        <p>
+          While the majority of remote working directories focus exclusively on Silicon Valley software engineering roles, Workbound flips the paradigm. Our proprietary taxonomy explicitly prioritizes <strong>Virtual Assistants, Customer Support (BPO), and AI Training</strong> opportunities. We believe the future of global work is accessible, non-technical, and completely borderless.
+        </p>
+
+        <h3 class="text-2xl text-ink font-bold tracking-tight mt-10 mb-4">Navigating the Remote Work Meta-Directory</h3>
+        <p>
+          Using our high-density, masonry-style platform columns, users can instantly scan across hundreds of verified portals. Whether you are looking to become an international <strong>Customer Service Representative</strong>, train cutting-edge <strong>Generative AI Models</strong> via RLHF tasks, or find entry-level freelance writing gigs, our categorization ensures you never miss a legitimate opportunity. We verify each portal against strict heuristics to filter out local-only roles and low-intent scams.
+        </p>
+      </div>
+
+      <div class="mt-20 pt-10 border-t border-ink/10 flex flex-col md:flex-row items-center justify-between text-ink/40 text-xs font-bold tracking-[0.2em] uppercase">
+        <p>© {new Date().getFullYear()} WORKBOUND. THE GLOBAL PROFESSIONAL.</p>
+        <div class="flex gap-8 mt-6 md:mt-0">
+          <a href="#" class="hover:text-accent transition-colors">Submit Portal</a>
+          <a href="#" class="hover:text-accent transition-colors">Privacy</a>
+          <a href="#" class="hover:text-accent transition-colors">Terms</a>
+        </div>
+      </div>
     </div>
   </footer>
 </Layout>
