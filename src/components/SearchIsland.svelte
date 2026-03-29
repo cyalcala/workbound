@@ -2,8 +2,6 @@
   export let platforms: any[] = [];
   
   let query = '';
-  // Track expanded state for categories with > 15 items
-  let expandedCategories: Record<string, boolean> = {};
   
   // Fuzzy search reactivity
   $: filteredPlatforms = platforms.filter(p => {
@@ -45,9 +43,7 @@
     }
   };
 
-  const toggleExpand = (category: string) => {
-    expandedCategories[category] = !expandedCategories[category];
-  };
+  const slugify = (text: string) => text.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)+/g, '');
 
   const getSubheadline = (category: string) => {
     const map: Record<string, string> = {
@@ -115,19 +111,18 @@
     {#each categoryOrder as category}
       {#if groupedPlatforms[category] && groupedPlatforms[category].length > 0}
         {@const categorySites = groupedPlatforms[category]}
-        {@const isExpanded = expandedCategories[category] || !!query} <!-- auto expand if searching -->
-        {@const visibleSites = isExpanded ? categorySites : categorySites.slice(0, 15)}
+        {@const visibleSites = !!query ? categorySites : categorySites.slice(0, 15)}
         
         <article class="break-inside-avoid bg-white rounded-3xl p-6 shadow-sm border border-ink/10 hover:shadow-md transition-shadow">
           <!-- Category Header -->
-          <div class="text-center mb-4">
-            <h2 class="text-xl font-extrabold text-ink tracking-tight uppercase">
+          <a href="/category/{slugify(category)}" class="block text-center mb-4 group focus:outline-none">
+            <h2 class="text-xl font-extrabold text-ink tracking-tight uppercase group-hover:text-accent transition-colors duration-200">
               {category}
             </h2>
-            <p class="text-[0.65rem] text-ink/50 font-semibold tracking-[0.1em] mt-1 px-4 leading-relaxed uppercase">
+            <p class="text-[0.65rem] text-ink/50 font-semibold tracking-[0.1em] mt-1 px-4 leading-relaxed uppercase group-hover:opacity-80 transition-opacity">
               {getSubheadline(category)}
             </p>
-          </div>
+          </a>
           
           <hr class="border-ink/10 my-4" />
 
@@ -168,20 +163,15 @@
             {/each}
           </ol>
 
-          <!-- The View All Truncation Button -->
+          <!-- The Dedicated Page Route Button -->
           {#if !query && categorySites.length > 15}
-            <button 
-              on:click={() => toggleExpand(category)}
+            <a 
+              href="/category/{slugify(category)}"
               class="mt-6 w-full py-3 bg-gradient-to-b from-parchment/30 to-ink/5 rounded-xl border border-ink/10 text-xs font-bold tracking-[0.15em] text-ink/60 uppercase hover:text-ink hover:border-ink/30 transition-all flex items-center justify-center gap-2"
             >
-              {#if isExpanded}
-                <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 15l7-7 7 7" /></svg>
-                Show Less
-              {:else}
-                SEE ALL {categorySites.length} SITES
-                <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3" /></svg>
-              {/if}
-            </button>
+              SEE ALL {categorySites.length} SITES
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3" /></svg>
+            </a>
           {/if}
         </article>
       {/if}
