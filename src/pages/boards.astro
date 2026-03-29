@@ -2,7 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 import platformsData from '../data/platforms.json';
 
-const boards = platformsData.filter(p => p.category === "Global Remote Boards");
+const boards = platformsData.filter(p => p.category === "Global Remote Boards" || p.isPlacementAgency);
 
 const getFavicon = (url: string) => {
   try {
@@ -28,7 +28,7 @@ const getFavicon = (url: string) => {
       Find a Job.
     </h2>
     <p class="text-xl md:text-2xl text-ink/70 mt-4 leading-relaxed font-medium tracking-tight max-w-3xl">
-      Aggregated traditional remote job boards serving global, borderless candidates. 
+      Aggregated traditional remote job boards and specialized VA placement agencies.
     </p>
   </div>
 

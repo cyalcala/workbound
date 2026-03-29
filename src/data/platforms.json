@@ -1,5 +1,19 @@
 [
   {
+    "id": "propva",
+    "name": "PropVA",
+    "url": "https://propva.co.uk",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "UK-based agency specialising in Filipino VAs for UK property / e-commerce / marketing.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
     "id": "dataannotation",
     "name": "DataAnnotation",
     "url": "https://dataannotation.tech",
