@@ -31,6 +31,7 @@
     "Copywriting & Editing",
     "Design & UX",
     "Global Remote Boards",
+    "Freelance Marketplaces",
     "Tech & Development"
   ];
 
@@ -56,6 +57,7 @@
       "Copywriting & Editing": "Content creation, blogging, and technical writing.",
       "Design & UX": "Visual design, UX/UI, and creative opportunities.",
       "Global Remote Boards": "Aggregated traditional remote job boards.",
+      "Freelance Marketplaces": "Giant open work marketplaces and bidding networks.",
       "Tech & Development": "Software engineering, data, and hard-tech roles."
     };
     return map[category] || "Curated remote work platforms.";
