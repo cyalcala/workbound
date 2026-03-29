@@ -1,5 +1,607 @@
 [
   {
+    "id": "edx",
+    "name": "edX",
+    "url": "https://www.edx.org",
+    "category": "University-Grade",
+    "type": "Training",
+    "description": "Business, humanities, professional certificates",
+    "tags": [
+      "Audit Free / Certificate Paid",
+      "Certified"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "coursera",
+    "name": "Coursera",
+    "url": "https://www.coursera.org",
+    "category": "University-Grade",
+    "type": "Training",
+    "description": "Career switching, accredited learning",
+    "tags": [
+      "Audit Free / Certificate Paid",
+      "Certified"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "mit-opencourseware",
+    "name": "MIT OpenCourseWare",
+    "url": "https://ocw.mit.edu",
+    "category": "University-Grade",
+    "type": "Training",
+    "description": "Self-directed rigorous learning",
+    "tags": [
+      "100% Free",
+      "Skills Only"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "stanford-online",
+    "name": "Stanford Online",
+    "url": "https://online.stanford.edu/free-courses",
+    "category": "University-Grade",
+    "type": "Training",
+    "description": "High-quality academic content",
+    "tags": [
+      "Free",
+      "Skills Only"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "harvard-online-learning",
+    "name": "Harvard Online Learning",
+    "url": "https://online-learning.harvard.edu",
+    "category": "University-Grade",
+    "type": "Training",
+    "description": "Prestige + quality education",
+    "tags": [
+      "Free",
+      "Skills Only"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "elements-of-ai",
+    "name": "Elements of AI",
+    "url": "https://www.elementsofai.com",
+    "category": "AI & Machine Learning",
+    "type": "Training",
+    "description": "Absolute beginners wanting AI literacy",
+    "tags": [
+      "100% Free",
+      "Certified"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "google-ai-essentials",
+    "name": "Google AI Essentials",
+    "url": "https://grow.google/ai-essentials",
+    "category": "AI & Machine Learning",
+    "type": "Training",
+    "description": "Non-tech professionals using AI day-to-day",
+    "tags": [
+      "Free",
+      "Certified"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "fast-ai",
+    "name": "Fast.ai",
+    "url": "https://www.fast.ai",
+    "category": "AI & Machine Learning",
+    "type": "Training",
+    "description": "Practical AI application",
+    "tags": [
+      "100% Free",
+      "Skills Only"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "kaggle-learn",
+    "name": "Kaggle Learn",
+    "url": "https://www.kaggle.com/learn",
+    "category": "AI & Machine Learning",
+    "type": "Training",
+    "description": "Learning by doing",
+    "tags": [
+      "100% Free",
+      "Certified"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "deeplearning-ai",
+    "name": "DeepLearning.AI",
+    "url": "https://www.deeplearning.ai",
+    "category": "AI & Machine Learning",
+    "type": "Training",
+    "description": "Structured AI learning paths",
+    "tags": [
+      "Free Tier Available",
+      "Certified"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "google-digital-garage",
+    "name": "Google Digital Garage",
+    "url": "https://learndigital.withgoogle.com/digitalgarage",
+    "category": "AI & Machine Learning",
+    "type": "Training",
+    "description": "Business professionals",
+    "tags": [
+      "100% Free",
+      "Certified"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "ibm-skillsbuild",
+    "name": "IBM SkillsBuild",
+    "url": "https://skillsbuild.org",
+    "category": "AI & Machine Learning",
+    "type": "Training",
+    "description": "Job-ready credentials",
+    "tags": [
+      "100% Free",
+      "Certified"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "microsoft-learn-ai",
+    "name": "Microsoft Learn AI",
+    "url": "https://learn.microsoft.com/en-us/ai",
+    "category": "AI & Machine Learning",
+    "type": "Training",
+    "description": "Microsoft ecosystem users",
+    "tags": [
+      "100% Free",
+      "Certified"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "amazon-aws-training",
+    "name": "Amazon AWS Training",
+    "url": "https://aws.amazon.com/training",
+    "category": "AI & Machine Learning",
+    "type": "Training",
+    "description": "Cloud-focused AI careers",
+    "tags": [
+      "Free Tier Available",
+      "Certified"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "mygreatlearning-academy",
+    "name": "MyGreatLearning Academy",
+    "url": "https://www.mygreatlearning.com/academy",
+    "category": "AI & Machine Learning",
+    "type": "Training",
+    "description": "Free certificates",
+    "tags": [
+      "100% Free",
+      "Certified"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "linkedin-learning",
+    "name": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning",
+    "category": "Non-Tech Career Skills",
+    "type": "Training",
+    "description": "Professional development",
+    "tags": [
+      "Free via Libraries/Universities",
+      "Certified"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "skillshare",
+    "name": "Skillshare",
+    "url": "https://www.skillshare.com",
+    "category": "Non-Tech Career Skills",
+    "type": "Training",
+    "description": "Creative skills, marketing",
+    "tags": [
+      "Free Trial + Some Free",
+      "Skills Only"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "hubspot-academy",
+    "name": "HubSpot Academy",
+    "url": "https://academy.hubspot.com",
+    "category": "Non-Tech Career Skills",
+    "type": "Training",
+    "description": "Marketing, sales certifications",
+    "tags": [
+      "100% Free",
+      "Certified"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "alison",
+    "name": "Alison",
+    "url": "https://alison.com",
+    "category": "Non-Tech Career Skills",
+    "type": "Training",
+    "description": "Workplace skills, health, language",
+    "tags": [
+      "100% Free",
+      "Certified"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "saylor-academy",
+    "name": "Saylor Academy",
+    "url": "https://www.saylor.org",
+    "category": "Non-Tech Career Skills",
+    "type": "Training",
+    "description": "Business administration",
+    "tags": [
+      "100% Free",
+      "Certified"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "openlearn--open-university-",
+    "name": "OpenLearn (Open University)",
+    "url": "https://www.open.edu/openlearn",
+    "category": "Non-Tech Career Skills",
+    "type": "Training",
+    "description": "Business, health, education",
+    "tags": [
+      "100% Free",
+      "Certified"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "futurelearn",
+    "name": "FutureLearn",
+    "url": "https://www.futurelearn.com",
+    "category": "Non-Tech Career Skills",
+    "type": "Training",
+    "description": "Professional & academic courses",
+    "tags": [
+      "Audit Free / Certificate Paid",
+      "Certified"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "canvas-network",
+    "name": "Canvas Network",
+    "url": "https://www.canvas.net",
+    "category": "Non-Tech Career Skills",
+    "type": "Training",
+    "description": "Professional development",
+    "tags": [
+      "Free",
+      "Skills Only"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "class-central",
+    "name": "Class Central",
+    "url": "https://www.class-central.com",
+    "category": "Course Aggregator",
+    "type": "Training",
+    "description": "Finding free courses from all platforms",
+    "tags": [
+      "100% Free",
+      "Skills Only"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "khan-academy",
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org",
+    "category": "Completely Free",
+    "type": "Training",
+    "description": "Math, science, computing, test prep",
+    "tags": [
+      "100% Free",
+      "Skills Only"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "codecademy",
+    "name": "Codecademy",
+    "url": "https://www.codecademy.com",
+    "category": "Completely Free",
+    "type": "Training",
+    "description": "Coding, data science basics",
+    "tags": [
+      "Free Tier",
+      "Certified"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "freecodecamp",
+    "name": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org",
+    "category": "Completely Free",
+    "type": "Training",
+    "description": "Web development, data analysis",
+    "tags": [
+      "100% Free",
+      "Certified"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "the-odin-project",
+    "name": "The Odin Project",
+    "url": "https://www.theodinproject.com",
+    "category": "Completely Free",
+    "type": "Training",
+    "description": "Full-stack web development",
+    "tags": [
+      "100% Free",
+      "Certified"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "w3schools",
+    "name": "W3Schools",
+    "url": "https://www.w3schools.com",
+    "category": "Completely Free",
+    "type": "Training",
+    "description": "Web technologies, Python, SQL",
+    "tags": [
+      "100% Free",
+      "Certified"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "sololearn",
+    "name": "SoloLearn",
+    "url": "https://www.sololearn.com",
+    "category": "Completely Free",
+    "type": "Training",
+    "description": "Coding basics on mobile",
+    "tags": [
+      "100% Free",
+      "Certified"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "cs50--harvard-",
+    "name": "CS50 (Harvard)",
+    "url": "https://cs50.harvard.edu/x",
+    "category": "Completely Free",
+    "type": "Training",
+    "description": "Computer science fundamentals",
+    "tags": [
+      "100% Free",
+      "Certified"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "verizon-skill-forward",
+    "name": "Verizon Skill Forward",
+    "url": "https://www.skillforward.com",
+    "category": "Government & Non-Profit",
+    "type": "Training",
+    "description": "Free tech & non-tech training + job board",
+    "tags": [
+      "100% Free",
+      "Certified"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "swayam",
+    "name": "SWAYAM",
+    "url": "https://swayam.gov.in",
+    "category": "Government & Non-Profit",
+    "type": "Training",
+    "description": "Class 9 to post-graduate courses",
+    "tags": [
+      "100% Free",
+      "Certified"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "nptel",
+    "name": "NPTEL",
+    "url": "https://nptel.ac.in",
+    "category": "Government & Non-Profit",
+    "type": "Training",
+    "description": "Engineering, science, humanities",
+    "tags": [
+      "100% Free",
+      "Certified"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "diksha",
+    "name": "DIKSHA",
+    "url": "https://diksha.gov.in",
+    "category": "Government & Non-Profit",
+    "type": "Training",
+    "description": "School-level resources",
+    "tags": [
+      "100% Free",
+      "Skills Only"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "pmi-free-resources",
+    "name": "PMI Free Resources",
+    "url": "https://www.pmi.org/learning/library",
+    "category": "Specialized",
+    "type": "Training",
+    "description": "Project management fundamentals",
+    "tags": [
+      "Free",
+      "Skills Only"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "google-data-analytics-certificate",
+    "name": "Google Data Analytics Certificate",
+    "url": "https://grow.google/dataanalytics",
+    "category": "Specialized",
+    "type": "Training",
+    "description": "Data analytics career",
+    "tags": [
+      "Free via Workforce Programs",
+      "Certified"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "google-ux-design-certificate",
+    "name": "Google UX Design Certificate",
+    "url": "https://grow.google/uxdesign",
+    "category": "Specialized",
+    "type": "Training",
+    "description": "UX design career",
+    "tags": [
+      "Free via Select Programs",
+      "Certified"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "cybrary",
+    "name": "Cybrary",
+    "url": "https://www.cybrary.it",
+    "category": "Specialized",
+    "type": "Training",
+    "description": "Cybersecurity skills",
+    "tags": [
+      "Free Tier",
+      "Certified"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "duolingo",
+    "name": "Duolingo",
+    "url": "https://www.duolingo.com",
+    "category": "Specialized",
+    "type": "Training",
+    "description": "Language learning",
+    "tags": [
+      "100% Free",
+      "Skills Only"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "investopedia-academy",
+    "name": "Investopedia Academy",
+    "url": "https://www.investopedia.com/academy",
+    "category": "Specialized",
+    "type": "Training",
+    "description": "Financial literacy",
+    "tags": [
+      "Free",
+      "Skills Only"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "grammarly-academy",
+    "name": "Grammarly Academy",
+    "url": "https://www.grammarly.com/blog",
+    "category": "Specialized",
+    "type": "Training",
+    "description": "Writing improvement",
+    "tags": [
+      "Free",
+      "Skills Only"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
+    "id": "y-combinator-startup-school",
+    "name": "Y Combinator Startup School",
+    "url": "https://www.startupschool.org",
+    "category": "Specialized",
+    "type": "Training",
+    "description": "Entrepreneurship",
+    "tags": [
+      "100% Free",
+      "Certified"
+    ],
+    "aiExposure": "Low",
+    "isLearning": true
+  },
+  {
     "id": "pearl-talent",
     "name": "Pearl Talent",
     "url": "https://www.pearltalent.com/for-candidates",
