@@ -21,25 +21,25 @@ const { title, description = "The highly curated, global directory of premium re
 		<!-- Google Fonts for Premium Typography -->
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-		<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
 		
 		<title>{title}</title>
 	</head>
 	<body class="min-h-screen bg-parchment text-ink selection:bg-accent selection:text-white pb-32">
-		<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12">
-			<!-- Minimalist Header -->
-			<header class="mb-16 border-b border-ink/10 pb-6 flex items-center justify-between">
+		<div class="max-w-[90rem] mx-auto px-4 sm:px-8 lg:px-12 pt-16">
+			<!-- Cinematic Header -->
+			<header class="mb-24 border-b border-ink/10 pb-8 flex flex-col md:flex-row md:items-end justify-between gap-6">
 				<div>
-					<h1 class="text-3xl font-bold tracking-tight text-ink flex items-center gap-2">
-						<svg xmlns="http://www.w3.org/2000/svg" class="w-8 h-8 text-accent" viewBox="0 0 24 24" fill="currentColor">
+					<h1 class="text-4xl md:text-5xl font-extrabold tracking-tighter text-ink flex items-center gap-3">
+						<svg xmlns="http://www.w3.org/2000/svg" class="w-10 h-10 text-accent" viewBox="0 0 24 24" fill="currentColor">
 							<path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 14.5v-9l6 4.5-6 4.5z"/>
 						</svg>
 						Workbound
 					</h1>
-					<p class="text-sm text-ink/70 mt-1 font-medium tracking-wide">THE CURATED GLOBAL REMOTE DIRECTORY</p>
+					<p class="text-xs text-ink/50 mt-2 font-bold tracking-[0.2em] uppercase">The Curated Global Directory</p>
 				</div>
-				<nav class="hidden sm:flex gap-6 text-sm font-medium text-ink/80">
-					<a href="#" class="hover:text-accent transition-colors duration-200">Submit a Resource</a>
+				<nav class="flex gap-8 text-sm font-bold tracking-widest uppercase text-ink/70">
+					<a href="#" class="hover:text-accent transition-colors duration-200">Submit Resource</a>
 					<a href="#" class="hover:text-accent transition-colors duration-200">Manifesto</a>
 				</nav>
 			</header>
