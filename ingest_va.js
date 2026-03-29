@@ -101,7 +101,7 @@ Outsourcing Angel,https://outsourcingangel.com,"Ethically sources top 10% of Fil
 // Basic regex to properly parse CSV lines that contain quotes. (Doesn't handle newlines in quotes, but data has none).
 function parseCSV(text) {
   const result = [];
-  const lines = text.trim().split('\\n');
+  const lines = text.trim().split('\n');
   for (let line of lines) {
     if(!line) continue;
     let fields = [];

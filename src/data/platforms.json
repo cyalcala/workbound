@@ -14,6 +14,1336 @@
     "isPlacementAgency": true
   },
   {
+    "id": "philippines-recruitment-uk",
+    "name": "Philippines Recruitment UK",
+    "url": "https://philippinesrecruitment.co.uk/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "UK-based recruitment agency that specialises in connecting Filipino freelancers (including VAs) with UK SMEs. They emphasise cost-effective, English-proficient Filipino professionals who can work UK hours.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "staff-avenue",
+    "name": "Staff Avenue",
+    "url": "https://staffavenue.co.uk/hire-virtual-staff-in-philippines/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "UK & Europe oriented staffing agency which connects UK businesses with virtual staff in the Philippines — emphasising admin, tech, and customer service.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "manpower-genius",
+    "name": "Manpower Genius",
+    "url": "https://manpowergenius.com/guide-for-uk-businesses/unlocking-efficiency-and-talent-outsourcing-your-office-staff-to-the-philippines-with-manpower-genius/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "British-owned headhunter/remote staffing agency that specialises in helping UK businesses hire Filipino virtual assistants and remote staff.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "digiworks",
+    "name": "DigiWorks",
+    "url": "https://www.teamdigiworks.com/virtual-assistant-from-the-philippines",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Platform that allows small/medium UK (and other) businesses to hire Filipino remote staff including virtual assistants, with their system handling matching/vetting.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "sos-va-services---smart-outsourcing-solution",
+    "name": "SOS VA Services / Smart Outsourcing Solution",
+    "url": "https://smartoutsourcingsolution.com/virtual-assistant-services-philippines/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Global outsourcing firm that offers Filipino virtual assistants covering admin, marketing, customer support; offers part-time and project-based models (suitable for UK hours).",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "virtualstaff-ph",
+    "name": "VirtualStaff.ph",
+    "url": "https://www.virtualstaff.ph/en-ph",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "*While not strictly UK-only, their platform supports remote employment of Filipinos by UK, US & Australian companies including part-time roles for UK-based businesses.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "easy-outsourcing",
+    "name": "Easy Outsourcing",
+    "url": "https://easy-outsourcing.com",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Boutique UK/Philippines outsourcing agency offering Filipino VAs for UK & Europe.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "officium",
+    "name": "Officium",
+    "url": "https://officium.ph",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "A UK company mentioned in job-threads that provides managed Filipino VA services to UK clients.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "digital-sps",
+    "name": "Digital SPS",
+    "url": "https://digitalsps.co.uk/hire-Philippines-virtual-assistant.php",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "UK digital agency advertising Filipino virtual assistants for remote tasks, with flexible global hiring model.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "creathink-solutions",
+    "name": "CreaThink Solutions",
+    "url": "https://creathink-solutions.com",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "UK-Philippines outsourcing advisor/firm that supports UK businesses to hire Filipino VAs.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "kdci-outsourcing",
+    "name": "KDCI Outsourcing",
+    "url": "https://kdci.co",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Outsourcing firm servicing global markets including UK, offering Filipino virtual assistants",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "virtual-coworker",
+    "name": "Virtual Coworker",
+    "url": "https://virtualcoworker.com.au/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Established Aussie agency (since 2011) placing vetted Filipino VAs across admin, marketing, tech, and real estate.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "remote-staff--australia-",
+    "name": "Remote Staff (Australia)",
+    "url": "https://www.remotestaff.com.au/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Australia-founded remote staffing firm hiring Filipino VAs for AU & NZ clients, with recruitment and management support.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "flat-planet",
+    "name": "Flat Planet",
+    "url": "https://flatplanet.com.au/hire-filipino-virtual-assistant/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Australian agency linking Aussie businesses with Filipino VAs for admin, support, and marketing roles.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "outsource-workers",
+    "name": "Outsource Workers",
+    "url": "https://outsourceworkers.com.au/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Australian company specialising in trained Filipino real estate virtual assistants.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "virtual-elves",
+    "name": "Virtual Elves",
+    "url": "https://virtualelves.com.au/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Australian VA agency hiring Filipino VAs and matching them quickly with Aussie businesses.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "staffingsolutions-io--ssio-",
+    "name": "StaffingSolutions.io (SSIO)",
+    "url": "https://staffingsolutions.io/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Helps Australian companies hire Filipino VAs with scalable, cost-effective staffing options.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "workmate-pro",
+    "name": "WorkMate Pro",
+    "url": "https://www.workmatepro.com/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Platform connecting Filipino VAs with international clients, focused on productivity and role matching.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "global-teams",
+    "name": "Global Teams",
+    "url": "https://globalteams.com.au/career-philippines/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Australian remote staffing firm hiring Philippines-based VAs through local career pages.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "arma-sourcing",
+    "name": "ArmA Sourcing",
+    "url": "https://armasourcing.com/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Provides Filipino VA staffing solutions tailored for Australian businesses.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "outshore",
+    "name": "Outshore",
+    "url": "https://outshore.com.au/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Australian outsourcing firm placing Filipino remote staff for admin, digital, and dev roles.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "beepo",
+    "name": "Beepo",
+    "url": "https://www.beepo.com.au/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Australian outsourcing platform offering Filipino VAs for admin and support roles.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "prosource",
+    "name": "ProSource",
+    "url": "https://prosource.com.au/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Outsourcing agency recruiting Filipino VA contractors for admin, e-commerce, and marketing.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "workspaceco-outsourcing",
+    "name": "WorkspaceCo Outsourcing",
+    "url": "https://workspacecooutsourcing.com/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Australian firm hiring university-educated Filipino VAs for admin, social media, and e-commerce.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "platinum-outsourcing",
+    "name": "Platinum Outsourcing",
+    "url": "https://platinumoutsourcing.com.au/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Outsourcing provider offering Filipino staff for VA, customer support, design, and tech roles.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "agentsync",
+    "name": "AgentSync",
+    "url": "https://agentsync.com.au/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Offers Essential and Elite Filipino VAs for Australian clients, full-time or part-time. Every successful VA once stood exactly where you are now—uncertain, learning, and taking that first step.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "smart-outsourcing-solution--sos-",
+    "name": "Smart Outsourcing Solution (SOS)",
+    "url": "https://smartoutsourcingsolution.com/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Premium EOR-wrapped model for SaaS scale-ups with a flat monthly fee covering compliance, payroll, and HR.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "crewbloom",
+    "name": "CrewBloom",
+    "url": "https://www.crewbloom.com/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "High-growth outsourcing agency connecting top 2% of Filipino remote talent with global businesses.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "superstaff",
+    "name": "SuperStaff",
+    "url": "https://superstaff.com/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Enterprise-grade BPO providing specialized virtual assistants for admin, e-commerce, and customer service.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "booth---partners",
+    "name": "Booth & Partners",
+    "url": "https://boothandpartners.com/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Offers tailored offshore staffing solutions with a focus on sustainability and high-quality Filipino talent.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "stellar-staff",
+    "name": "Stellar Staff",
+    "url": "https://stellarstaff.com/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Emerging agency providing dedicated Filipino VAs for real estate, marketing, and administrative roles.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "outsourcey",
+    "name": "Outsourcey",
+    "url": "https://outsourcey.com/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Australian-owned agency specializing in high-quality Filipino virtual assistants for SMEs.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "access-offshoring",
+    "name": "Access Offshoring",
+    "url": "https://accessoffshoring.com.au/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Provides tailored offshore staffing solutions for businesses worldwide.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "cool-pixels",
+    "name": "Cool Pixels",
+    "url": "https://www.coolpixels.com.au/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Specializes in virtual assistants for creative/digital marketing tasks.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "24x7-direct",
+    "name": "24x7 Direct",
+    "url": "https://www.24x7direct.com.au/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "24/7 virtual assistants for customer support/admin tasks.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "virtual-staff-365",
+    "name": "Virtual Staff 365",
+    "url": "https://www.virtualstaff365.com.au/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Connects businesses with skilled virtual assistants.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "remote-staff-philippines",
+    "name": "Remote Staff Philippines",
+    "url": "https://www.remotestaff.ph/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "A decade-old offshore staffing provider offering virtual assistance, web development, and digital marketing services with flexible pricing.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "clear-admin-people",
+    "name": "Clear Admin People",
+    "url": "https://www.adminpeople.com.au/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Professional virtual assistants for admin/operational support.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "virtual-champions",
+    "name": "Virtual Champions",
+    "url": "https://virtualchampions.ph/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "VAs for entrepreneurs/small businesses.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "onlinehelpers",
+    "name": "OnlineHelpers",
+    "url": "https://onlinehelpers.info/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Australian-owned offshore virtual assistance for SMEs.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "my-cloud-assistant",
+    "name": "My Cloud Assistant",
+    "url": "https://www.mycloudassistant.com.au/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Tailored VA services for professionals/SMBs.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "ova-virtual-assistant",
+    "name": "OVA Virtual Assistant",
+    "url": "https://ovavirtual.com/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Women-led VA company based in the Philippines.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "bottleneck-distant-assistants",
+    "name": "Bottleneck Distant Assistants",
+    "url": "https://bottleneck.online/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Specialized VA roles with trained staff.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "global-hola",
+    "name": "Global Hola",
+    "url": "https://www.globalhola.com",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Fun, inclusive virtual culture for Filipino VAs.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "olivia-pros",
+    "name": "Olivia Pros",
+    "url": "https://www.oliviapros.com/careers",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "WFH opportunities for Filipino VAs.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "my-virtudesk",
+    "name": "My Virtudesk",
+    "url": "https://myvirtudesk.com/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Industry-specific VAs (real estate, marketing).",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "fast-track-fba",
+    "name": "Fast Track FBA",
+    "url": "https://fasttrackfba.com/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Amazon FBA-focused VA services.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "virtualhub-ph",
+    "name": "VirtualHub PH",
+    "url": "https://virtualhub.ph/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "VA services for Philippine-based businesses.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "pineapple-staffing",
+    "name": "Pineapple Staffing",
+    "url": "https://pineapplestaffing.com/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Virtual staffing solutions including VAs.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "coconut-va",
+    "name": "Coconut VA",
+    "url": "https://coconutva.com/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "General business task support.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "virtualstaff",
+    "name": "VirtualStaff",
+    "url": "https://www.virtualstaff.ph/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Pre-vetted VA hiring platform.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "onlinejobs",
+    "name": "OnlineJobs",
+    "url": "https://www.onlinejobs.ph/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Direct VA hiring platform.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "myoutdesk",
+    "name": "MyOutDesk",
+    "url": "https://www.myoutdesk.com/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Real estate-focused VAs.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "virtual-staff-finder",
+    "name": "Virtual Staff Finder",
+    "url": "https://www.virtualstafffinder.com/careers/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Curated VA candidates.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "evirtualassistants",
+    "name": "EVirtualAssistants",
+    "url": "https://www.evirtualassistants.com/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Direct client-VA communication platform.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "taskbullet",
+    "name": "TaskBullet",
+    "url": "https://www.taskbullet.com/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Hourly VA services with 'bucket system'.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "usource",
+    "name": "USource",
+    "url": "https://usource.me/services/virtual-assistants/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Full-time VAs for digital marketing/support.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "hello-rache",
+    "name": "Hello Rache",
+    "url": "https://hellorache.com/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Healthcare VAs with medical training.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "multiplymii",
+    "name": "MultiplyMii",
+    "url": "https://www.multiplymii.com/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Career-focused VA matching.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "support-shepherd",
+    "name": "Support Shepherd",
+    "url": "https://www.somewhere.com/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Customer service/admin VAs.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "pepper-virtual-assistants",
+    "name": "Pepper Virtual Assistants",
+    "url": "https://peppervirtualassistant.com/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Reliable VA services across industries.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "24-7-virtual-assistant",
+    "name": "24/7 Virtual Assistant",
+    "url": "https://20four7va.com/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Round-the-clock VA support.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "getfriday",
+    "name": "GetFriday",
+    "url": "https://www.getfriday.com/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Personalized business/personal assistance.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "my-freight-staff",
+    "name": "My Freight Staff",
+    "url": "https://myfreightstaff.ph/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Freight/logistics-specific VAs.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "highcall",
+    "name": "HighCall",
+    "url": "https://highcallva.com/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Medical transcription/billing VAs.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "athena-executive-assistants",
+    "name": "Athena Executive Assistants",
+    "url": "https://jobs.athenago.com",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Robust training programs and social media focus; 100% remote work for Filipinos.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "outsource-access",
+    "name": "Outsource Access",
+    "url": "https://outsourceaccess.com",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Focuses on SMEs with flexible hours and health plans for Mindanao-based talent.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "the-va-hub-ph",
+    "name": "The VA Hub PH",
+    "url": "https://thevahub.org",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Specialized training for real estate, marketing, and sales VAs (since 2016).",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "hiretalent-ph",
+    "name": "HireTalent.ph",
+    "url": "https://hiretalent.ph",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Rigorous vetting with 'job points' and sample tasks to showcase skills.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "magic-virtual-assistant-services",
+    "name": "Magic Virtual Assistant Services",
+    "url": "https://getmagic.pinpointhq.com",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Connects VAs to global startups (earnings start at $5/hour).",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "boldly",
+    "name": "Boldly",
+    "url": "https://boldly.com",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Subscription-based VA services with admin, project management, and design expertise.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "outsource-accelerator",
+    "name": "Outsource Accelerator",
+    "url": "https://outsourceaccelerator.com",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Global marketplace listing 3,000+ BPOs for staff leasing and recruitment.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "va-staffer",
+    "name": "VA Staffer",
+    "url": "https://vastaffer.com",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Vetted virtual executive assistants with technical expertise.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "linkedva",
+    "name": "LinkedVA",
+    "url": "https://linkedva.com/careers/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Offers paid training and a 'best team in the universe' culture for Filipino VAs.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "govirtuals",
+    "name": "GoVirtuals",
+    "url": "https://govirtuals.com",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Australian-Filipino VA company specializing in digital marketing and brand strategy.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "virtual-done-well",
+    "name": "Virtual Done Well",
+    "url": "https://virtualdonewell.com",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Davao City-based VA provider for email management and customer service.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "remote-workmate",
+    "name": "Remote Workmate",
+    "url": "https://remoteworkmate.com",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Australian platform offering free trials and employee swap programs for SMEs.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "gohirenow",
+    "name": "GoHireNow",
+    "url": "https://gohirenow.com",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "US marketplace connecting employers with Filipino VAs, emphasizing fair pay and seamless hiring for roles like content creation and IT support.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "iwork-ph",
+    "name": "iWork.ph",
+    "url": "https://iwork.ph",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "A Filipino-based platform widely used by Japanese employers to hire VAs for tasks like administrative support, data entry, and customer service. Offers transparent pricing and secure transaction management 12.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "quantum-virtual-assistants",
+    "name": "Quantum Virtual Assistants",
+    "url": "https://quantumvirtualassistant.com",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "A global platform connecting European businesses with Filipino VAs for specialized tasks like digital marketing, content creation, and administrative support. Emphasizes rigorous vetting and cultural alignment with Western clients 6.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "remote-raven",
+    "name": "Remote Raven",
+    "url": "https://hireremoteraven.com",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "A European-focused agency offering pre-vetted Filipino VAs for roles like social media management, customer support, and technical assistance. Known for its seamless onboarding and AI-driven task automation 10.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "scotiabank-canada",
+    "name": "Scotiabank Canada",
+    "url": "https://scotiabank.com",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Offers remote administrative and customer service roles, with pathways for Filipino VAs through LMIA-supported positions 14.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "kpmg-canada",
+    "name": "KPMG Canada",
+    "url": "https://kpmg.ca",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Auditing firm hiring remote VAs for finance and project coordination, with sponsorship options under Canada’s TFWP 14.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "elastic-path",
+    "name": "Elastic Path",
+    "url": "https://elasticpath.com",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Vancouver-based tech company recruiting bilingual (English/French) VAs for sales support and digital operations 14.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "hilton-hotels-australia",
+    "name": "Hilton Hotels Australia",
+    "url": "https://hilton.com.au",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Hospitality giant hiring remote customer service VAs for reservations and client management roles 9.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "ramsay-health-care",
+    "name": "Ramsay Health Care",
+    "url": "https://ramsayhealth.com",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Healthcare provider seeking remote administrative VAs for patient coordination and data entry 9.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "reassist",
+    "name": "REassist",
+    "url": "https://reassist.com.au",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Focuses on real estate VAs, helping Australian property businesses streamline rent roll management and client communication. Partners with Filipino VAs trained in property software like CoreLogic 4.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "pmva--property-management-virtual-assistant-",
+    "name": "PMVA (Property Management Virtual Assistant)",
+    "url": "https://pmva.com.au",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Brisbane-based firm expanding into the Philippines, offering VAs skilled in real estate workflows, lease administration, and tenant coordination. Provides bilingual support for Australian property managers 4.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "capital-ea",
+    "name": "Capital EA",
+    "url": "https://capitalea.com.au",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "A 'boutique' VA agency targeting executives and educational institutions. Sources Filipino VAs with expertise in high-level admin tasks, report preparation, and event coordination 4.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "ms-virtual-assistant",
+    "name": "MS Virtual Assistant",
+    "url": "https://msvirtualassistant.com.au",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Fully Australian-based but hires Filipino VAs for time zone alignment. Specializes in outbound calling, website management, and administrative tasks for local businesses 4.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "vaxtra",
+    "name": "Vaxtra",
+    "url": "https://vaxtra.com",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Provides end-to-end VA solutions, including seat leasing in Southeast Asia. Focuses on customer service and HR support, leveraging Filipino talent for cost savings (~15–20 AUD/hour) 4.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "galilee-business-support-services--gbss-",
+    "name": "Galilee Business Support Services (GBSS)",
+    "url": "https://gbss.com.au",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Sydney-based BPO connecting Australian firms with Filipino VAs for accounting, real estate, and HR roles. Emphasizes cultural alignment and cost efficiency (~12–18 AUD/hour) 4.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "the-property-va",
+    "name": "The Property VA",
+    "url": "https://thepropertyva.co.uk",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "A UK-based agency specializing in connecting property investors with Filipino VAs for tasks like tenant communication, CRM management, and social media. Focuses on bridging cultural gaps and providing cost-effective solutions for UK real estate businesses 9.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "virtalent-uk",
+    "name": "Virtalent UK",
+    "url": "https://virtalent.com",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "UK-focused VA platform hiring experienced professionals (including Filipinos residing in the UK) for roles like diary management, marketing support, and project coordination. Offers flexible hours and emphasizes rigorous vetting 11.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "outsourcing-angel",
+    "name": "Outsourcing Angel",
+    "url": "https://outsourcingangel.com",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Ethically sources top 10% of Filipino VAs, emphasizing sustainability and cultural alignment. Offers a lifetime replacement guarantee and holistic support for SMEs 12.",
+    "tags": [
+      "Placement Agency",
+      "Offshore VA"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
     "id": "dataannotation",
     "name": "DataAnnotation",
     "url": "https://dataannotation.tech",
