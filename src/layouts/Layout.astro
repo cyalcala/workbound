@@ -30,16 +30,18 @@ const { title, description = "The highly curated, global directory of premium re
 			<!-- Cinematic Header -->
 			<header class="mb-24 border-b border-ink/10 pb-8 flex flex-col md:flex-row md:items-end justify-between gap-6">
 				<div>
-					<h1 class="text-4xl md:text-5xl font-extrabold tracking-tighter text-ink flex items-center gap-3">
-						<svg xmlns="http://www.w3.org/2000/svg" class="w-10 h-10 text-accent" viewBox="0 0 24 24" fill="currentColor">
-							<path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 14.5v-9l6 4.5-6 4.5z"/>
-						</svg>
-						Workbound
-					</h1>
+					<a href="/" class="block group">
+						<h1 class="text-4xl md:text-5xl font-extrabold tracking-tighter text-ink flex items-center gap-3 group-hover:text-accent transition-colors duration-200">
+							<svg xmlns="http://www.w3.org/2000/svg" class="w-10 h-10 text-accent group-hover:scale-110 transition-transform duration-200" viewBox="0 0 24 24" fill="currentColor">
+								<path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 14.5v-9l6 4.5-6 4.5z"/>
+							</svg>
+							Workbound
+						</h1>
+					</a>
 					<p class="text-xs text-ink/50 mt-2 font-bold tracking-[0.2em] uppercase">The Curated Global Directory</p>
 				</div>
 				<nav class="flex gap-6 md:gap-8 text-sm font-bold tracking-widest uppercase text-ink/70">
-					<a href="/" class="hover:text-accent transition-colors duration-200">Directory</a>
+					<a href="/boards" class="hover:text-accent transition-colors duration-200">Find a Job</a>
 					<a href="/resources" class="text-accent hover:text-orange-500 transition-colors duration-200">Resources Library</a>
 				</nav>
 			</header>
