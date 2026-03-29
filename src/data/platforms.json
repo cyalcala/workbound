@@ -1,5 +1,33 @@
 [
   {
+    "id": "pearl-talent",
+    "name": "Pearl Talent",
+    "url": "https://www.pearltalent.com/for-candidates",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Specialized recruitment for high-end Filipino virtual assistants and professional talent.",
+    "tags": [
+      "Premium Staffing",
+      "Top VA Talent"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
+    "id": "outsourcing-angel",
+    "name": "Outsourcing Angel",
+    "url": "https://jobs.outsourcingangel.com/",
+    "category": "Virtual Assistants & Support",
+    "type": "Work",
+    "description": "Ethical outsourcing agency focused on long-term relationships between businesses and Filipino virtual assistants.",
+    "tags": [
+      "Ethical Outsourcing",
+      "Long-term"
+    ],
+    "aiExposure": "Low",
+    "isPlacementAgency": true
+  },
+  {
     "id": "propva",
     "name": "PropVA",
     "url": "https://propva.co.uk",
@@ -1322,20 +1350,6 @@
     "category": "Virtual Assistants & Support",
     "type": "Work",
     "description": "UK-focused VA platform hiring experienced professionals (including Filipinos residing in the UK) for roles like diary management, marketing support, and project coordination. Offers flexible hours and emphasizes rigorous vetting 11.",
-    "tags": [
-      "Placement Agency",
-      "Offshore VA"
-    ],
-    "aiExposure": "Low",
-    "isPlacementAgency": true
-  },
-  {
-    "id": "outsourcing-angel",
-    "name": "Outsourcing Angel",
-    "url": "https://outsourcingangel.com",
-    "category": "Virtual Assistants & Support",
-    "type": "Work",
-    "description": "Ethically sources top 10% of Filipino VAs, emphasizing sustainability and cultural alignment. Offers a lifetime replacement guarantee and holistic support for SMEs 12.",
     "tags": [
       "Placement Agency",
       "Offshore VA"
