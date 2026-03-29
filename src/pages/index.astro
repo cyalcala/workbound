@@ -1,17 +1,34 @@
 ---
+import Layout from '../layouts/Layout.astro';
+import SearchIsland from '../components/SearchIsland.svelte';
+import platformsData from '../data/platforms.json';
 
+// In a real scenario, this is where we would map over the JSON, parse out any dates if we had them, etc.
+const sortedPlatforms = platformsData;
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
-</html>
+<Layout title="Workbound - The Premium Remote Work Directory">
+  <div class="mb-16">
+    <div class="prose prose-stone max-w-3xl mb-8">
+      <h2 class="text-xl text-ink/80 font-medium leading-relaxed">
+        The definitive, Porndude-style master directory of global freelance work and resources.
+        <br/><span class="text-accent font-semibold">Prioritizing Non-Tech and AI-augmented opportunities globally.</span>
+      </h2>
+      <p class="text-ink/60 mt-4 leading-relaxed">
+        We've curated and tested hundreds of platforms to eliminate regional noise. Search instantly through the grid below.
+      </p>
+    </div>
+  </div>
+
+  <!-- Intentionally load Svelte client-side to take over fuzzy search. -->
+  <!-- `client:load` ensures the JavaScript hydrates immediately without waiting for interaction, to make search zero-latency immediately. -->
+  <SearchIsland platforms={sortedPlatforms} client:load />
+
+  <footer class="mt-32 border-t border-ink/10 pt-8 flex items-center justify-between text-ink/50 text-sm font-medium tracking-wide">
+    <p>© {new Date().getFullYear()} Workbound. Built for the modern global professional.</p>
+    <div class="flex gap-4">
+      <a href="#" class="hover:text-accent transition-colors">Privacy</a>
+      <a href="#" class="hover:text-accent transition-colors">Terms</a>
+    </div>
+  </footer>
+</Layout>

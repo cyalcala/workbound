@@ -1,0 +1,52 @@
+---
+import '../styles/global.css';
+
+interface Props {
+	title: string;
+	description?: string;
+}
+
+const { title, description = "The highly curated, global directory of premium remote work and freelancer resources." } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="description" content={description} />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="generator" content={Astro.generator} />
+		
+		<!-- Google Fonts for Premium Typography -->
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+		
+		<title>{title}</title>
+	</head>
+	<body class="min-h-screen bg-parchment text-ink selection:bg-accent selection:text-white pb-32">
+		<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12">
+			<!-- Minimalist Header -->
+			<header class="mb-16 border-b border-ink/10 pb-6 flex items-center justify-between">
+				<div>
+					<h1 class="text-3xl font-bold tracking-tight text-ink flex items-center gap-2">
+						<svg xmlns="http://www.w3.org/2000/svg" class="w-8 h-8 text-accent" viewBox="0 0 24 24" fill="currentColor">
+							<path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 14.5v-9l6 4.5-6 4.5z"/>
+						</svg>
+						Workbound
+					</h1>
+					<p class="text-sm text-ink/70 mt-1 font-medium tracking-wide">THE CURATED GLOBAL REMOTE DIRECTORY</p>
+				</div>
+				<nav class="hidden sm:flex gap-6 text-sm font-medium text-ink/80">
+					<a href="#" class="hover:text-accent transition-colors duration-200">Submit a Resource</a>
+					<a href="#" class="hover:text-accent transition-colors duration-200">Manifesto</a>
+				</nav>
+			</header>
+
+			<main>
+				<slot />
+			</main>
+		</div>
+	</body>
+</html>

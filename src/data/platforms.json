@@ -1,0 +1,192 @@
+[
+  {
+    "id": "dataannotation",
+    "name": "DataAnnotation",
+    "url": "https://dataannotation.tech",
+    "category": "AI Training & Micro-Task",
+    "type": "Work",
+    "description": "Train AI models, test prompts, and write creatively. No specific tech background needed. High intent and globally available.",
+    "tags": ["AI Trainer", "No Experience", "$15-25/hr"],
+    "aiExposure": "Low"
+  },
+  {
+    "id": "outlier",
+    "name": "Outlier AI",
+    "url": "https://outlier.ai",
+    "category": "AI Training & Micro-Task",
+    "type": "Work",
+    "description": "Flexible work training generative AI models. Highly reliable platforms prioritizing humans in the loop.",
+    "tags": ["AI Editor", "Flexible", "$15-30/hr"],
+    "aiExposure": "Low"
+  },
+  {
+    "id": "remotasks",
+    "name": "Remotasks",
+    "url": "https://remotasks.com",
+    "category": "AI Training & Micro-Task",
+    "type": "Work",
+    "description": "Micro-tasks centered around AI training, LiDAR mapping, and data tagging. Globally accessible task board.",
+    "tags": ["Micro-task", "Global", "AI Training"],
+    "aiExposure": "Low"
+  },
+  {
+    "id": "telus",
+    "name": "TELUS International",
+    "url": "https://telusinternational.com",
+    "category": "AI Training & Micro-Task",
+    "type": "Work",
+    "description": "Search engine evaluation, AI rating, and data annotation for massive global tech partners.",
+    "tags": ["Data Rating", "Global", "Part-time"],
+    "aiExposure": "Low"
+  },
+  {
+    "id": "modsquad",
+    "name": "ModSquad",
+    "url": "https://modsquad.com",
+    "category": "Non-Tech / Support / VA",
+    "type": "Work",
+    "description": "Digital engagement services: moderation, customer support, and social media management globally.",
+    "tags": ["Community Management", "Global", "No Exp OK"],
+    "aiExposure": "Low"
+  },
+  {
+    "id": "woodbows",
+    "name": "WoodBows",
+    "url": "https://woodbows.com",
+    "category": "Non-Tech / Support / VA",
+    "type": "Work",
+    "description": "General virtual assistant work, data entry, and administration targeted primarily toward international English speakers.",
+    "tags": ["Virtual Assistant", "Global", "Entry Level"],
+    "aiExposure": "Low"
+  },
+  {
+    "id": "uassistme",
+    "name": "UAssist.ME",
+    "url": "https://uassist.me",
+    "category": "Non-Tech / Support / VA",
+    "type": "Work",
+    "description": "Bilingual (English/Spanish) focused virtual assistant and administrative roles servicing global clients.",
+    "tags": ["Bilingual VA", "Global", "$10-18/hr"],
+    "aiExposure": "Medium"
+  },
+  {
+    "id": "concentrix",
+    "name": "Concentrix",
+    "url": "https://concentrix.com",
+    "category": "Non-Tech / Support / VA",
+    "type": "Work",
+    "description": "Massive global provider of customer service, tech support, and sales roles with a heavy remote footprint.",
+    "tags": ["Customer Support", "Global", "Training Provided"],
+    "aiExposure": "Medium"
+  },
+  {
+    "id": "contena",
+    "name": "Contena",
+    "url": "https://contena.co",
+    "category": "Writing & Creative",
+    "type": "Work",
+    "description": "Premium curation of high-paying writing jobs, editing gigs, and content strategy roles.",
+    "tags": ["Premium Writing", "Global", "All Levels"],
+    "aiExposure": "Medium"
+  },
+  {
+    "id": "clearvoice",
+    "name": "ClearVoice",
+    "url": "https://clearvoice.com",
+    "category": "Writing & Creative",
+    "type": "Work",
+    "description": "Content marketing platform connecting strategic writers with top-tier brands.",
+    "tags": ["Content Strategy", "Portfolio Based"],
+    "aiExposure": "Medium"
+  },
+  {
+    "id": "dribbble",
+    "name": "Dribbble Jobs",
+    "url": "https://dribbble.com/jobs",
+    "category": "Writing & Creative",
+    "type": "Work",
+    "description": "The definitive board for global remote design jobs ranging from UX to illustration.",
+    "tags": ["Design", "Global", "Professional"],
+    "aiExposure": "Low"
+  },
+  {
+    "id": "weworkremotely",
+    "name": "We Work Remotely",
+    "url": "https://weworkremotely.com",
+    "category": "General Job Boards",
+    "type": "Work",
+    "description": "The largest general remote work community in the world. High volume of daily tech and non-tech postings.",
+    "tags": ["Largest Board", "Global", "High Volume"],
+    "aiExposure": "Medium"
+  },
+  {
+    "id": "flexjobs",
+    "name": "FlexJobs",
+    "url": "https://flexjobs.com",
+    "category": "General Job Boards",
+    "type": "Work",
+    "description": "Vetted and hand-screened remote jobs across 50+ career fields to eliminate scams.",
+    "tags": ["Vetted", "Subscription", "All Categories"],
+    "aiExposure": "Medium"
+  },
+  {
+    "id": "remoteok",
+    "name": "Remote OK",
+    "url": "https://remoteok.com",
+    "category": "General Job Boards",
+    "type": "Work",
+    "description": "Highly visited, minimalist board pushing out thousands of tech, marketing, and design opportunities globally.",
+    "tags": ["Startups", "Global", "Minimalist"],
+    "aiExposure": "Medium"
+  },
+  {
+    "id": "arcdev",
+    "name": "Arc.dev",
+    "url": "https://arc.dev",
+    "category": "Tech & Development",
+    "type": "Work",
+    "description": "Platform connecting developers with full-time remote and freelance contract roles.",
+    "tags": ["Developers", "Global", "Vetted"],
+    "aiExposure": "Low"
+  },
+  {
+    "id": "himalayas",
+    "name": "Himalayas",
+    "url": "https://himalayas.app",
+    "category": "General Job Boards",
+    "type": "Work",
+    "description": "Clean, intuitive remote job board with deep company profiles, exposing team culture before you apply.",
+    "tags": ["Culture Focus", "Global", "Tech & Non-Tech"],
+    "aiExposure": "Medium"
+  },
+  {
+    "id": "jobboardsearch",
+    "name": "Job Board Search",
+    "url": "https://jobboardsearch.com",
+    "category": "Resources & Meta-Directories",
+    "type": "Resource",
+    "description": "A meta-directory featuring over 1,000 hyper-niche job boards spanning every single industry.",
+    "tags": ["Meta-Directory", "Filters", "Essential"],
+    "aiExposure": "Low"
+  },
+  {
+    "id": "awesomejobboards",
+    "name": "Awesome Job Boards",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "category": "Resources & Meta-Directories",
+    "type": "Resource",
+    "description": "The definitive open-source GitHub mega-list of job boards, categorized by extreme niches.",
+    "tags": ["Open Source", "GitHub", "Exhaustive"],
+    "aiExposure": "Low"
+  },
+  {
+    "id": "theresanaiforthat",
+    "name": "There's An AI For That",
+    "url": "https://theresanaiforthat.com",
+    "category": "Resources & Meta-Directories",
+    "type": "Resource",
+    "description": "Discover massive databases of AI tools to rapidly upskill and protect your non-tech service offerings.",
+    "tags": ["Upskilling", "Tooling", "AI Automation"],
+    "aiExposure": "Low"
+  }
+]
