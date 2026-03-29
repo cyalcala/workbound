@@ -143,12 +143,12 @@
                     href={platform.url} 
                     target="_blank" 
                     rel="noopener noreferrer" 
-                    class="text-ink hover:text-accent font-bold truncate pr-2 absolute inset-y-0 left-6 right-0 flex items-center gap-2"
+                    class="text-ink hover:text-accent font-bold flex items-center gap-2 flex-1 min-w-0"
                   >
                     <!-- Invisible stretched link over the container -->
                     <span class="absolute inset-0 z-10"></span>
                     
-                    <span class="truncate block max-w-[50%]">{platform.name}</span>
+                    <span class="truncate block max-w-[60%] shrink-0">{platform.name}</span>
 
                     <!-- Tags / Pills inline -->
                     {#if platform.tags.length > 0}
