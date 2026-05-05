@@ -47,7 +47,7 @@
 
   const getSubheadline = (category: string) => {
     const map: Record<string, string> = {
-      "Virtual Assistants & Support": "The most accessible entry-point remote roles globally.",
+      "Virtual Assistants & Support": "The most accessible dayshift VA & support roles for Manila PH.",
       "Resources & Meta-Directories": "Curated tools, aggregators, and remote finding resources.",
       "AI Training & Micro-Task": "Train foundational AI models with flexible micro-tasks.",
       "Copywriting & Editing": "Content creation, blogging, and technical writing.",
@@ -74,7 +74,7 @@
       <input 
         type="text" 
         bind:value={query}
-        placeholder="Search 70+ sites..."
+        placeholder="Search 250+ dayshift companies..."
         class="block w-full pl-20 pr-8 py-5 rounded-2xl border-2 border-transparent bg-white shadow-card text-ink placeholder-ink/30 focus:outline-none focus:border-accent/40 focus:ring-4 focus:ring-accent/10 transition-all duration-300 text-2xl font-medium tracking-tight"
       />
       
@@ -151,7 +151,7 @@
                     {#if platform.tags.length > 0}
                       <div class="flex gap-1 overflow-hidden pointer-events-none relative z-20">
                         {#each platform.tags.slice(0, 2) as tag}
-                          <span class="inline-flex whitespace-nowrap px-1.5 py-0.5 rounded text-[9px] font-extrabold tracking-wider border border-ink/10 uppercase {tag.includes('Exp') || tag.includes('Global') ? 'bg-green-50 text-green-700 border-green-200' : 'bg-parchment text-ink/60'}">
+                          <span class="inline-flex whitespace-nowrap px-1.5 py-0.5 rounded text-[9px] font-extrabold tracking-wider border uppercase {tag.includes('Dayshift') ? 'bg-green-100 text-green-800 border-green-300' : tag.includes('AU Timezone') ? 'bg-blue-50 text-blue-700 border-blue-200' : tag.includes('Exp') || tag.includes('Global') ? 'bg-green-50 text-green-700 border-green-200' : 'bg-parchment text-ink/60 border-ink/10'}">
                             {tag}
                           </span>
                         {/each}

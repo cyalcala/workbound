@@ -10,8 +10,12 @@ const sortedPlatforms = platformsData;
   <!-- Minimal Apex Title -->
   <div class="mb-8 text-center sm:text-left">
     <h2 class="text-3xl md:text-5xl text-ink font-extrabold tracking-tighter leading-tight">
-      The master directory of global remote work.
+      The master directory of dayshift remote work — built for Manila, PH.
     </h2>
+    <p class="text-lg md:text-xl text-ink/50 mt-4 font-medium tracking-tight max-w-3xl">
+      Strictly dayshift-compatible companies. Australian, Asian, and Philippine timezone opportunities — no graveyard shifts. 
+      <span class="text-accent font-bold">{sortedPlatforms.filter(p => p.type === 'Work' && p.tags?.includes('Dayshift ✅')).length}+ dayshift-verified</span> companies.
+    </p>
   </div>
 
   <!-- Intentionally load Svelte client-side to take over fuzzy search. -->
@@ -27,6 +31,11 @@ const sortedPlatforms = platformsData;
           Workbound is the internet's definitive meta-directory for discovering borderless, global remote work opportunities. We meticulously curate and categorize the highest-intent job boards, freelance platforms, and micro-tasking sites, cutting through the noise to deliver a pristine list of resources.
         </p>
         
+        <h3 class="text-2xl text-ink font-bold tracking-tight mt-10 mb-4">Strictly Dayshift — Built for Manila, Philippines</h3>
+        <p>
+          Workbound is the only directory that enforces a <strong>strict dayshift-only policy</strong>. Every company listed is verified to offer roles aligned with Manila business hours (UTC+8). We prioritize Australian, Singaporean, Japanese, and Philippine-based employers — meaning you work while the sun is up. No graveyard shifts. No midnight calls. Just sustainable, healthy remote careers.
+        </p>
+
         <h3 class="text-2xl text-ink font-bold tracking-tight mt-10 mb-4">Prioritizing Non-Tech & Global Opportunities</h3>
         <p>
           While the majority of remote working directories focus exclusively on Silicon Valley software engineering roles, Workbound flips the paradigm. Our proprietary taxonomy explicitly prioritizes <strong>Virtual Assistants, Customer Support (BPO), and AI Training</strong> opportunities. We believe the future of global work is accessible, non-technical, and completely borderless.
